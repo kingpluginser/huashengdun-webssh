@@ -2,9 +2,16 @@
 增加生成SSH Link功能，方便收藏，下次使用不需要输入密码。
 ![image](https://github.com/crazypeace/huashengdun-webssh/assets/665889/123a33bd-9514-46a5-8e64-d7a82b7f6f19)
 
+SSH Link 可以带一个命令参数. 登录完成后就执行命令.  
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1726912439/video_to_markdown/images/youtube--hCoAy06NA4k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=hCoAy06NA4k "")
+
 部署到容器的教程:
 
 https://zelikk.blogspot.com/2023/10/huashengdun-webssh-codesandbox.html
+
+补充 部署到Hugging Face的教程 / 作者 Xiang xjfkkk
+
+https://linux.do/t/topic/135264
 
 <details>
     <summary>原项目readme (点击展开)</summary>
